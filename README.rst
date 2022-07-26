@@ -1,0 +1,19 @@
+- 👋 Hi, I’m Muhammad Fikri Adi
+- 👀 I’m interested learned new technology and programming
+- 🌱 My experience:
+   - PHP
+   - Laravel php framework
+   - Sass css framework
+   - Tailwind CSS
+   - Bootstrap 4
+   - Bootstrap
+   - Javascript
+   - React JS
+   - jQuery
+   - mysql
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me
+   - Instagram: `@fiikriadi_ <https://www.instagram.com/fiikriadi_/>`_
+   - whatsapp: `081213516731 <https://api.whatsapp.com/send?phone=6281213516731>`_
+   - telegram:  `@fiikriadi <https://t.me/fiikriadi>`_
+   - linked: `fikriadip <https://www.linkedin.com/in/muhammad-fikri-adi-prasetyo/>`_
