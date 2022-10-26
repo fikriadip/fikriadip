@@ -1,17 +1,15 @@
-- 👋 Hi, I’m Muhammad Fikri Adi
+- 👋 Hello There, I’m Muhammad Fikri
 - 👀 I’m interested learned new technology and programming
 - 🌱 My experience:
    - PHP
    - Laravel php framework
-   - Sass css framework
+   - Sass CSS framework
    - Tailwind CSS
-   - Bootstrap 4
    - Bootstrap
-   - Javascript
-   - React JS
+   - JavaScript
    - jQuery
    - Ajax
-   - Mysql
+   - MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
    - codepen: `@muhammadfikriadi <https://codepen.io/muhammadfikriadi/>`_
