@@ -12,6 +12,6 @@
    - MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-   - codepen: `@muhammadfikriadi <https://codepen.io/muhammadfikriadi/>`_
-   - instagram: `@mfikriadip_ <https://www.instagram.com/mfikriadip_/>`_
+   - line: `@fikries_ <http://line.me/ti/p/~fikries_>`_
    - telegram:  `@fiikriadi <https://t.me/fiikriadi>`_
+   - instagram: `@mfikriadip_ <https://www.instagram.com/mfikriadip_/>`_
