@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building scalable software systems, intelligent platforms, and mission-critical applications from architecture to deployment.
+  Engineering scalable software, distributed systems, intelligent platforms, and operational technology from architecture to production.
 </p>
 
 <p align="center">
@@ -24,116 +24,130 @@
 
 ## About
 
-I'm a **Senior Full-Stack Engineer** focused on designing and building end-to-end software systems.
+I'm a **Senior Full-Stack Engineer** with experience spanning **software engineering, backend architecture, distributed systems, infrastructure, DevOps, system administration, and AI-powered platforms**.
 
-My work spans from **product engineering and application development to system architecture, infrastructure, distributed systems, data platforms, and AI-powered solutions**.
+I build systems end-to-end — from understanding requirements and designing architecture to implementation, deployment, infrastructure management, and production operations.
 
-I enjoy working on complex problems where software needs to be reliable, scalable, observable, and useful in real-world operational environments.
+My work increasingly focuses on **real-time data, intelligent systems, geospatial applications, communication analytics, surveillance platforms, and operational technology**.
 
-### What I Work On
-
-* **Full-Stack Engineering** — scalable web and mobile applications
-* **Backend & API Engineering** — service-oriented and distributed architectures
-* **System Architecture** — designing reliable end-to-end platforms
-* **Infrastructure & DevOps** — Linux, Docker, Kubernetes, RKE2, CI/CD
-* **Data & Distributed Systems** — PostgreSQL, PostGIS, Redis, Elasticsearch, MongoDB
-* **AI & Intelligent Systems** — knowledge retrieval, reasoning, analytics, speech processing
-* **Geospatial & Real-Time Data** — GIS, AIS, ADS-B, tracking and spatial intelligence
-* **Product Engineering** — turning technical requirements into production-ready systems
+I enjoy working at the intersection of **software, infrastructure, data, and real-world systems**.
 
 ---
 
-## Engineering Focus
+## Engineering Domains
 
-```text
-Software Engineering
-├── Full-Stack Development
-├── Backend & API Architecture
-├── Frontend & Mobile Applications
-└── Microservices & Distributed Systems
+### Software Engineering
 
-Infrastructure
-├── Linux & Server Engineering
-├── Docker & Containerization
-├── Kubernetes / RKE2
-└── DevOps & Production Operations
+Building modern applications and services across the full stack.
 
-Data & Intelligence
-├── PostgreSQL / PostGIS
-├── Redis / Elasticsearch / MongoDB
-├── Real-Time Data Processing
-├── GIS & Spatial Intelligence
-└── AI / Knowledge & Reasoning Systems
+* Full-Stack Web Development
+* Backend & API Engineering
+* Frontend & Mobile Applications
+* Microservices Architecture
+* REST & gRPC Services
+* Event-Driven Architecture
+* Real-Time Applications
+* API Gateway & Service Integration
 
-Specialized Systems
-├── Communication Intelligence
-├── Maritime & Aviation Surveillance
-├── AIS / ADS-B Data Processing
-├── Speech & Voice Analytics
-└── Mission / Operational Intelligence Platforms
-```
+### Distributed & Messaging Systems
+
+Designing systems that communicate reliably at scale.
+
+* Apache Kafka
+* RabbitMQ
+* Redis Streams
+* Event-driven architecture
+* Message queues
+* Asynchronous processing
+* Producer / Consumer architectures
+* Distributed service communication
+
+### Infrastructure, DevOps & SysAdmin
+
+Comfortable working beyond the application layer and operating the infrastructure that runs it.
+
+* Linux Server Administration
+* Docker & Containerization
+* Kubernetes
+* RKE2
+* Nginx
+* CI/CD
+* Networking & Service Configuration
+* Production Troubleshooting
+* Resource & Storage Management
+* Database Operations
+* Monitoring & Operational Maintenance
+
+### Data & Spatial Systems
+
+Working with structured, unstructured, spatial, and real-time data.
+
+* PostgreSQL
+* PostGIS
+* MongoDB
+* Redis
+* Elasticsearch
+* MySQL
+* Microsoft SQL Server
+* Spatial Indexing
+* Geofencing
+* Real-Time Data Processing
+
+### AI & Intelligent Systems
+
+Building software that combines AI with operational and knowledge-driven workflows.
+
+* LLM Integration
+* Knowledge Retrieval
+* AI Reasoning Systems
+* Intelligence Analysis
+* Speech-to-Text
+* Voice & Speech Analytics
+* Data Synthesis
+* Automated Intelligence Reporting
+* AI-powered Search & Knowledge Systems
+
+### Tactical & Operational Technology
+
+Experience working with software systems that interface with operational and tactical technology.
+
+Areas of understanding include:
+
+* Tactical communication systems
+* Satellite communication concepts
+* AIS & maritime surveillance
+* ADS-B & aviation surveillance
+* Real-time tracking systems
+* Data acquisition systems
+* Sensor / receiver integration concepts
+* Operational dashboards
+* Geospatial situational awareness
+
+> My focus is on the **software, data, integration, and system architecture layer**, while continuously expanding my understanding of the underlying tactical equipment and operational workflows.
 
 ---
 
-## Selected Work
+## Technology Stack
 
-### AI & Intelligence Platforms
-
-Designing and engineering platforms that combine **AI, data integration, knowledge retrieval, analytics, and operational intelligence**.
-
-Areas include:
-
-* AI-powered reasoning and intelligence
-* Knowledge monitoring and retrieval
-* Intelligence report generation
-* Network and relationship analysis
-* Speech and communication analytics
-* Real-time operational dashboards
-
-### Tactical & Surveillance Systems
-
-Working with systems that process and visualize real-time information from multiple sources.
-
-Focus areas include:
-
-* **AIS** — maritime vessel tracking and monitoring
-* **ADS-B** — aircraft tracking and surveillance
-* **GIS / PostGIS** — geospatial analysis and geofencing
-* Real-time telemetry
-* Data acquisition and processing
-* Tactical mobile surveillance platforms
-
-### Enterprise & Business Systems
-
-Building production systems for operational and business workflows, including:
-
-* Inventory Management
-* Point of Sale
-* E-Commerce
-* Human Resource Management
-* Customer Service & Queue Management
-* Virtual Advisory Systems
-* Enterprise API & Integration Platforms
-
----
-
-## Technology
-
-I work across multiple layers of the stack rather than limiting myself to a single framework or ecosystem.
+Rather than focusing on individual tools, I approach technology as part of the larger system.
 
 **Languages**
 
 `TypeScript` · `JavaScript` · `Python` · `Go` · `PHP` · `Dart` · `SQL`
 
-**Backend**
+**Backend & Runtime**
 
-`Node.js` · `NestJS` · `Express.js` · `Laravel` · `REST API` · `gRPC` · `Microservices`
+`Node.js` · `NestJS` · `Express.js` · `Elysia` · `Laravel`
 
 **Frontend & Mobile**
 
-`React` · `Next.js` · `Vue` · `Flutter` · `Tailwind CSS`
+`React` · `Next.js` · `Svelte` · `Vue` · `Flutter` · `Tailwind CSS`
 
-**Data**
+**Messaging & Streaming**
+
+`Apache Kafka` · `RabbitMQ` · `Redis Streams` · `Event-Driven Architecture`
+
+**Databases & Search**
 
 `PostgreSQL` · `PostGIS` · `Redis` · `MongoDB` · `Elasticsearch` · `MySQL` · `SQL Server`
 
@@ -141,9 +155,116 @@ I work across multiple layers of the stack rather than limiting myself to a sing
 
 `Linux` · `Docker` · `Kubernetes` · `RKE2` · `Nginx` · `Git` · `CI/CD`
 
-**AI & Data Intelligence**
+**AI & Data**
 
-`LLM Integration` · `Knowledge Retrieval` · `Speech-to-Text` · `Data Analytics` · `Geospatial Intelligence` · `Real-Time Processing`
+`LLM Integration` · `RAG` · `Knowledge Retrieval` · `Speech-to-Text` · `Data Analytics` · `Real-Time Processing`
+
+---
+
+## Selected Engineering Work
+
+### AI & Intelligence Platforms
+
+Designing and engineering platforms that combine **AI, data integration, knowledge retrieval, analytics, and operational intelligence**.
+
+Focus areas include:
+
+* AI-powered operational reasoning
+* Knowledge monitoring and retrieval
+* Intelligence synthesis
+* Intelligence report generation
+* Network & relationship analysis
+* Communication analytics
+* Speech & voice intelligence
+* Real-time intelligence dashboards
+
+### Maritime & Aviation Surveillance
+
+Working with real-time tracking and geospatial systems using domain-specific data sources.
+
+**Maritime**
+
+* AIS data processing
+* Vessel tracking
+* NMEA AIS concepts
+* Geofencing
+* Maritime situational awareness
+* Real-time vessel monitoring
+
+**Aviation**
+
+* ADS-B data processing
+* Aircraft tracking
+* Antenna / receiver coverage concepts
+* Flight surveillance
+* Aviation situational awareness
+
+### Distributed & Real-Time Platforms
+
+Designing systems where services, data, and events need to move reliably across distributed components.
+
+```text
+Data Sources
+     │
+     ▼
+Acquisition
+     │
+     ▼
+Message / Event Layer
+ ┌───┴────┐
+ ▼        ▼
+Kafka   RabbitMQ
+ └───┬────┘
+     ▼
+Processing Services
+     │
+ ┌───┴─────────────┐
+ ▼                 ▼
+Data Layer      Intelligence
+     │                 │
+     └────────┬────────┘
+              ▼
+       Operational Apps
+```
+
+### Enterprise & Business Systems
+
+Experience building production systems for:
+
+* Inventory Management
+* Point of Sale
+* E-Commerce
+* Human Resource Management
+* Customer Service Systems
+* Queue Management
+* Virtual Advisory Systems
+* Enterprise APIs & Integrations
+
+---
+
+## Infrastructure Mindset
+
+One of my strengths is being comfortable moving across layers of the stack.
+
+```text
+Application
+     ↓
+API & Services
+     ↓
+Messaging & Events
+     ↓
+Data & Storage
+     ↓
+Containers
+     ↓
+Kubernetes
+     ↓
+Linux / Network
+     ↓
+Production Infrastructure
+```
+
+When something breaks, I prefer understanding **where the failure actually originates** rather than treating every problem as an application bug.
 
 ---
 
@@ -151,12 +272,24 @@ I work across multiple layers of the stack rather than limiting myself to a sing
 
 > **Build systems, not just features.**
 
-I care about more than getting an application to work.
+Good engineering is not only about making software work.
 
-Good engineering, to me, means understanding the problem, designing the right architecture, building maintainable software, operating it reliably, and continuously improving it based on real-world requirements.
+It is about understanding the problem, designing the right architecture, building maintainable systems, operating them reliably, and improving them based on real-world requirements.
 
 ```text
-Understand → Architect → Build → Deploy → Operate → Improve
+Understand
+    ↓
+Architect
+    ↓
+Build
+    ↓
+Integrate
+    ↓
+Deploy
+    ↓
+Operate
+    ↓
+Improve
 ```
 
 ---
@@ -165,12 +298,15 @@ Understand → Architect → Build → Deploy → Operate → Improve
 
 * AI-powered software systems
 * Intelligent knowledge platforms
-* Real-time data processing
 * Distributed systems
+* Event-driven architecture
+* Real-time data processing
 * Geospatial intelligence
 * Communication & network analytics
-* Tactical surveillance systems
+* Maritime & aviation surveillance
+* Tactical technology
 * Cloud-native infrastructure
+* DevOps & system engineering
 * Developer tooling & automation
 
 ---
