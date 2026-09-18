@@ -1,28 +1,196 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fikri Adi</h1>
-<h3 align="center">A passionate full stack developer from Jakarta, Indonesia</h3>
+<h1 align="center">Muhammad Fikri Adi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fikriadip&label=Profile%20views&color=0e75b6&style=flat" alt="fikriadip" /> </p>
-
-- 🌱 I’m currently learning **python, flutter, devops**
-
-- 👨‍💻 All of my projects are available at [https://bit.ly/fikri-all-portfolio](https://bit.ly/fikri-all-portfolio)
-
-- 📝 soon I regularly write articles on [fikriadip.github.io](fikriadip.github.io)
-
-- 📫 Reach me at **fikri.adie04@gmail.com**
-
-- 📄 Know about my experiences [https://fikriadip.github.io/resume/](https://fikriadip.github.io/resume/)
-
-- ⚡ Fun fact **I like anime**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/muhammad-fikri-adi-prasetyo04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/muhammad-fikri-adi-prasetyo04" height="30" width="40" /></a>
+<p align="center">
+  <strong>Senior Full-Stack Engineer · Systems Engineer · AI & Intelligence Platform Builder</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building scalable software systems, intelligent platforms, and mission-critical applications from architecture to deployment.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fikriadip&show_icons=true&locale=en&layout=compact" alt="fikriadip" /></p>
+<p align="center">
+  <a href="https://bit.ly/fikri-all-portfolio">Portfolio</a>
+  ·
+  <a href="https://linkedin.com/in/muhammad-fikri-adi-prasetyo04">LinkedIn</a>
+  ·
+  <a href="mailto:fikri.adie04@gmail.com">Email</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fikriadip&show_icons=true&locale=en" alt="fikriadip" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fikriadip&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## About
+
+I'm a **Senior Full-Stack Engineer** focused on designing and building end-to-end software systems.
+
+My work spans from **product engineering and application development to system architecture, infrastructure, distributed systems, data platforms, and AI-powered solutions**.
+
+I enjoy working on complex problems where software needs to be reliable, scalable, observable, and useful in real-world operational environments.
+
+### What I Work On
+
+* **Full-Stack Engineering** — scalable web and mobile applications
+* **Backend & API Engineering** — service-oriented and distributed architectures
+* **System Architecture** — designing reliable end-to-end platforms
+* **Infrastructure & DevOps** — Linux, Docker, Kubernetes, RKE2, CI/CD
+* **Data & Distributed Systems** — PostgreSQL, PostGIS, Redis, Elasticsearch, MongoDB
+* **AI & Intelligent Systems** — knowledge retrieval, reasoning, analytics, speech processing
+* **Geospatial & Real-Time Data** — GIS, AIS, ADS-B, tracking and spatial intelligence
+* **Product Engineering** — turning technical requirements into production-ready systems
+
+---
+
+## Engineering Focus
+
+```text
+Software Engineering
+├── Full-Stack Development
+├── Backend & API Architecture
+├── Frontend & Mobile Applications
+└── Microservices & Distributed Systems
+
+Infrastructure
+├── Linux & Server Engineering
+├── Docker & Containerization
+├── Kubernetes / RKE2
+└── DevOps & Production Operations
+
+Data & Intelligence
+├── PostgreSQL / PostGIS
+├── Redis / Elasticsearch / MongoDB
+├── Real-Time Data Processing
+├── GIS & Spatial Intelligence
+└── AI / Knowledge & Reasoning Systems
+
+Specialized Systems
+├── Communication Intelligence
+├── Maritime & Aviation Surveillance
+├── AIS / ADS-B Data Processing
+├── Speech & Voice Analytics
+└── Mission / Operational Intelligence Platforms
+```
+
+---
+
+## Selected Work
+
+### AI & Intelligence Platforms
+
+Designing and engineering platforms that combine **AI, data integration, knowledge retrieval, analytics, and operational intelligence**.
+
+Areas include:
+
+* AI-powered reasoning and intelligence
+* Knowledge monitoring and retrieval
+* Intelligence report generation
+* Network and relationship analysis
+* Speech and communication analytics
+* Real-time operational dashboards
+
+### Tactical & Surveillance Systems
+
+Working with systems that process and visualize real-time information from multiple sources.
+
+Focus areas include:
+
+* **AIS** — maritime vessel tracking and monitoring
+* **ADS-B** — aircraft tracking and surveillance
+* **GIS / PostGIS** — geospatial analysis and geofencing
+* Real-time telemetry
+* Data acquisition and processing
+* Tactical mobile surveillance platforms
+
+### Enterprise & Business Systems
+
+Building production systems for operational and business workflows, including:
+
+* Inventory Management
+* Point of Sale
+* E-Commerce
+* Human Resource Management
+* Customer Service & Queue Management
+* Virtual Advisory Systems
+* Enterprise API & Integration Platforms
+
+---
+
+## Technology
+
+I work across multiple layers of the stack rather than limiting myself to a single framework or ecosystem.
+
+**Languages**
+
+`TypeScript` · `JavaScript` · `Python` · `Go` · `PHP` · `Dart` · `SQL`
+
+**Backend**
+
+`Node.js` · `NestJS` · `Express.js` · `Laravel` · `REST API` · `gRPC` · `Microservices`
+
+**Frontend & Mobile**
+
+`React` · `Next.js` · `Vue` · `Flutter` · `Tailwind CSS`
+
+**Data**
+
+`PostgreSQL` · `PostGIS` · `Redis` · `MongoDB` · `Elasticsearch` · `MySQL` · `SQL Server`
+
+**Infrastructure**
+
+`Linux` · `Docker` · `Kubernetes` · `RKE2` · `Nginx` · `Git` · `CI/CD`
+
+**AI & Data Intelligence**
+
+`LLM Integration` · `Knowledge Retrieval` · `Speech-to-Text` · `Data Analytics` · `Geospatial Intelligence` · `Real-Time Processing`
+
+---
+
+## Engineering Philosophy
+
+> **Build systems, not just features.**
+
+I care about more than getting an application to work.
+
+Good engineering, to me, means understanding the problem, designing the right architecture, building maintainable software, operating it reliably, and continuously improving it based on real-world requirements.
+
+```text
+Understand → Architect → Build → Deploy → Operate → Improve
+```
+
+---
+
+## Current Interests
+
+* AI-powered software systems
+* Intelligent knowledge platforms
+* Real-time data processing
+* Distributed systems
+* Geospatial intelligence
+* Communication & network analytics
+* Tactical surveillance systems
+* Cloud-native infrastructure
+* Developer tooling & automation
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://bit.ly/fikri-all-portfolio">
+    <strong>Portfolio</strong>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/muhammad-fikri-adi-prasetyo04">
+    <strong>LinkedIn</strong>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="mailto:fikri.adie04@gmail.com">
+    <strong>Email</strong>
+  </a>
+</p>
+
+<p align="center">
+  <i>Engineering complex systems into reliable software.</i>
+</p>
