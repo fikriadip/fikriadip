@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Fikri Adi</h1>
+<h1 align="center">Fikri's Motoh</h1>
 
 <p align="center">
   <strong>Senior Full-Stack Engineer · Systems Engineer · AI & Intelligence Platform Builder</strong>
